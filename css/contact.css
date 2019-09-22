@@ -1,0 +1,15 @@
+.dot {
+  height: 160px;
+  width: 160px;
+  background-color:lightblue;
+  border-style:solid;
+  border-color:black;
+  border-radius: 100%;
+  display: inline-block;
+  opacity:.5;
+}
+
+#map{
+  height: 500px;
+  width: 100%;
+}

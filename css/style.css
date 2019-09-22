@@ -1,0 +1,28 @@
+/* nav link width spacing */
+.guideLink {
+  width: 14%;
+}
+
+/*Background color for menu tab*/
+.newColor {
+  background-color: rgb(110, 117, 116) !important;
+}
+
+/*Bottom nav Bar */
+.footer {
+  background-color:#ac0901!important;
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  height:52px;
+}
+
+/*Container for image logo*/
+.logoHJC {}
+
+/* image logo */
+.imgLogoSize {
+  height: auto;
+  width: auto;
+}
